@@ -1,19 +1,15 @@
 done:
 
-positivity_and_negativity.txt
 sanitation
-yearinreview.md
-operator.md
-sisyphus.md
 new_phones
+positivity_and_negativity.txt
 death_of_the_payphone
+operator.md
+map
+sisyphus.md
 urban_furniture
 heidelberg_project
+yearinreview.md
 wireless_installation
 support.txt
 ack.txt
-
-todo:
-
-cover
-map
