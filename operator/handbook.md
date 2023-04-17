@@ -18,6 +18,7 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - saratoga: N Saratoga St W of Denver, N side of street: 503-388-9637
 - cesarchavez: SE Cesar Chavez Blvd S of Steele, E side of street: 503-946-5227
 - microcosm: N Williams Ave S of NE Graham St, E side of street: 503-294-5966
+- 27thalley: NE 27th Ave-28th Ave Alley N of Killingsworth, W side of street: 503-928-8465
 
 There are also these less public phones:
 - r2d2: Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
