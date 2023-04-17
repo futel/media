@@ -1,0 +1,38 @@
+Talk:
+
+Futel: For Whom The Dial Tones
+
+...
+
+Installation (unattended):
+
+Give Me Central 209
+
+Teaser:
+
+Have you ever picked up a ringing payphone? Perhaps you should! But be careful what you say! Who are you speaking with? You might want to call somebody. They might even want to call back. Can you trust the person on the other end? Is it less than a person, or maybe more? You might even want to listen closely. They say that knowledge is power, but they also say that the wires are haunted!
+
+Bio:
+
+Karl Anderson is an operator of Futel, Portland's fastest-growing network of telephones firmly attached to the surface of the Earth. Other projects he has been involved with, all of which also involve the public use of technology diverted from the waste stream, include the Church of Robotron and C.H.V.N.K. 666.
+
+Supplemental material:
+
+This is an interactive audio project housed in one or more payphones. Users will be able to make and receive calls, but their voices and hearing will be modified. There will be several different experiences depending on the complexity desired, including puzzles, menus of interesting things to do, weird oracular interactions, and live human interaction.
+
+This is a side project of Futel, a network of free payphones in Portland and other cities. I had a different installation at Teardown 2018 which also used payphones, but which ran a different program and user experience.
+
+Website:
+https://futel.net/
+Wikipedia entry:
+https://en.wikipedia.org/wiki/Futel
+
+Setup requirements:
+
+Space for a payphone on a pedestal, with a wooden base, in a well trafficed location. About two feet square and five feet high, attached to a base of 2x4s and plywood - intended to be stood upon, and wheelchair accessible, but should be against a wall or pillar and not be e.g. in the middle of a fire exit.
+
+Power and internet. Wired internet is easier and cheaper, wireless is workable. Low resource usage, about 25 watts electricity and 125 KBPS bandwidth, but does need good latency.
+
+Access for setup and teardown before and after the conference.
+
+$400-$600 depending on complexity, and a conference ticket. I also submitted a talk proposal which, if accepted, would cover the conference ticket.
