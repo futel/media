@@ -1,0 +1,141 @@
+Title
+
+Increasing Achievements with Operant Conditioning
+
+About
+
+We are all engaged in various projects for various reasons. This talk will discuss how we can increase our effectiveness by organizing our projects around operant conditioning concepts.
+
+Audience
+
+People interested in organizing and executing projects
+
+Length
+
+30 minutes?
+
+About Me
+
+Karl Anderson is an operator of Futel, Portland's most relevant telecommunications network. Other projects he has been involved with, all of which also involve the public use of technology diverted from the waste stream, include the Church of Robotron and C.H.V.N.K. 666.
+
+content warning
+content appropriation warning
+
+briefly talk about myself and my motivations
+- it may be helpful to have some context about why I'm thinking about these things
+- I'm Karl, I've always been a hacker, I was a sysadmin in college in the 90s and a software engineer since then
+- so I've been subjected to a lot of management and organizational theories
+- I've always filled my life with qixotic projects, the latest one is Futel
+- other projects involve taking care of children and parents, a lot of logistics
+
+soft skills talk
+- at a tech conf
+- sorry, the name soft skills is derogatory
+- but I like it
+- ask a taoist what's more powerful. Ask the Grand Canyon which is more powerful, rocks or water.
+- anyway tech skills are more fun to use, but soft skills are more important. Nothing gets done without soft skills
+
+you have a project
+
+your project has some combination of objectives
+- the purpose of the project is to achive those objectives
+- this statement is basic enough to be not so useful, but the idea behind this talk will be to organize these basic building blocks of attention and effort
+- I am suggesting that it is useful to step back and look at the project objectives, not just the main stated goal, but the secondary goals
+- anyway
+- produce something: ship software, build defensive equipment, create content
+- develop something: research, experiment, prototype, test
+- communicate something: ideas, information, feelings
+- or whatever, affect change: tear down a fence, repair equipment, tend the environment
+- also, look at the other outcomes, both positive and negative, intended and unintended
+- using up time, money, effort, intellectual and emotional capacity
+- social benefits and costs
+- maybe someone has to drive a car, or gets to have an experience, or gets covid
+
+the act of engaging in a project can be modeled as a stimulus response reinforcement cycle
+ - stimulus response reinforcement
+- this is a core concept of behavioral psychology, that everything can and should be modeled like that
+- most influential behaviorist was B. F. Skinner, who believed that this was the only driver of human action
+- experiment: light goes on, rat pushes a lever, food is dispensed
+- baby cries, parent feeds baby, crying stops
+- see that the yam hopper is empty, gather yams, see that the hopper is full
+- lonely, go to a bar, then what? make rewarding social contact, get drunk, get hungover and smoky
+
+back to projects
+- a project succeeds if the responses of the team achieve the objectives
+- so, if you want to increase the rate at which the responses of the project team help to achieve the project objectives, engineer the stimuli and reinforcements
+- that is the point of this talk. Those are your inputs, tweak them to change outputs.
+- and this idea is valuable for teams of one as well as teams of many people
+Back to stimulus response reinforcement
+- it doesn't matter where that reinforcement comes from
+- internal external
+- concrete abstract
+- physical intellectual emotional
+- night, day, don't mean shit
+
+so what
+how can this be made into concrete guidance
+
+engineer the stimulus and reinforcement
+- there are all sorts of details and experimentation about tweaking the cycle
+- won't go into that here, this isn't a one great trick for mastery scam
+- we are talking about the basics and the model
+
+engineer the reinforcement
+- money
+- if you can do that you have a lot of boring and effective ways to address the project's needs
+- other compensation that saves money like services, discounts, items
+- other compensation that can't be bought like rare items
+  - art, craft
+- life improvement like skills, personal achivements
+  - internship
+  - career development  
+- social rewards
+  - companionship
+  - identification, community, belongingness
+  - interaction, knowledge, wisdom
+  - tokens
+- we are not mentioning punishment or other adverse reinforcement
+  - we are not addressing any relationship that can use coercion
+  - but it is still there and it should be thought about, I just don't have the time and maybe not the skills
+  - there are always adverse outcomes like time spent, opportunities missed
+  - but also a framework that we live in and use even if the coercion doesn't come from us
+
+engineer stimulus
+- work environment
+  - food comfort aesthetics
+  - communication companionship
+  - information emotions
+- knowledge of what is happening
+  - outcomes
+  - rewards
+  - tasks
+  - requirements
+
+Notice that the two examples I gave were just rewordings of the operant cycle of stimulus response reward. Also notice that the reinforcement and stimulus kind of merge, a stimulus is also a reward. Shit, where are we in the cycle? Are we just playing with words and semantics here? Yes, that is another point of this talk. You can just get to work without organizing your project planning like this, but I find it useful, and also an uplifting way to think about myself and others in my teams.
+
+how about concrete examples
+again, we will stay basic because this is a basic talk
+- just do some project management
+  - task tree, burndown graph
+  - stimulus: what needs to be done next response: task work reinforcement: achievement and progress
+- extreme programming in the 90s
+  - first agile process
+  - replacement for the waterfall process
+  - turn a big process cycle of design build test into smaller cycles
+  - design build test small units with schedules of a week or less
+  - we get reinforcement more often, which means we get better stimulus and can change desired responses
+- timeboxing like pomodoro
+  - do only one task for 25 minutes, then break for 5
+  - stimulus: task! response: straightforward reinforcement: completion (or not)
+  - compare this to how I work when less organized. work work work phew time to fuck around, whoops where am I
+- just mix work and rewards
+  - if I do fundraising work I can do some creative work
+  - if I fix this bug I can research this interesting tool
+
+- my children used to go to a Montissori school which completely reputiated these ideas
+- ideally the only rewards for a child's behavior was the ability to continue that behavior
+- this extends to the verbal responses of the teacher, "I see that you have drawn a blue house with some people in front of it"
+- part of the philosophy is that removing a reward is the same as punishment. They don't want to guide by punishment. I hinted at this earlier and it's really helpful when thinking about my own relationships
+- it is a wonderful way to guide children
+- but there were natural consequences of course, if you can't regulate your behavior you were removed
+- and there was love, care, and affection
