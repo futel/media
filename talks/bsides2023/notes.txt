@@ -1,0 +1,42 @@
+Biography
+
+Karl Anderson is a hardware and software experimenter who is good at thinking up projects but bad at predicting whether or not they will be practical. As director of Futel, he runs Portland's fastest-growing payphone network. With C.H.U.N.K. 666, he has created amphibious human-powered vehicles out of discarded bicycles and construction debris. With the Church of Robotron, he has built a post-apocalyptic training facility, indoctrination center, and reading room based on the tenets of a coin-operated video game.
+
+Proposal title
+
+How And Why To Gain Technological Advantages By Harvesting Entropy From An Unsuspecting Public
+
+Session type
+
+20 min talk
+
+Abstract
+
+To be a successful engineer requires creativity. How can we develop creativity? We can do things outside of our day jobs that help us explore new ideas. What if we aren't privileged enough to have the capacity for under-paid extra work? We need to find a way to get rewarded for this work.
+
+Description
+
+The career tracks of engineering professionals can be divided into two castes: the morlocks, whose toil designs the machinery upon which our society runs, and the eloi, who are granted the freedom to explore the possibilities for which this machinery can elevate the human condition, or at least make the investors richer.
+
+How can engineers seize the reins of technology to help ourselves and our families, neighborhoods, and communities without bleeding our life energy to the managers and venture capitalists who dole out the wages that let us live out our days?
+
+At Futel, we have a process which we think will help us out of the cynical muck of today's information technology field. It doesn't work, but it will be essential to survive the coming times. Our system harnesses the quixotic nature of the hacker and its inability to submit to the constraints of rules, superior opposing resources, or common sense itself to imbue our lives with purpose. We then apply this purpose to direct our technological obsessions towards mutual aid and human interactions.
+
+Why do we do this? It doesn't matter, because we are just going to do it anyway, but we are always trying to find ways to turn these stupid quests into something that gives us advantage, whether imaginary or real. This talk will discuss how we find these advantages and use them to motivate a cohort of volunteers to achieve a common goal.
+
+Notes
+
+Soft skills talk, if that wasn't obvious! The description is of course somewhat goofy, and the talk is more entertaining and inspirational than concrete, but the gist of the subject is about finding ways to grow engineering skills when the day job might have us doing boring work. I was approached after giving a talk at Teardown 2023 and encouraged to submit one here.
+
+20 minutes will be a fast-paced talk. I usually do 40-50 and could do this one that way too, it would probably be easier, but my Teardown talk was compressed due to AV issues taking up time and I had fun with the fast format.
+
+Do you have a connection to Portland or the Pacific Northwest (PNW)?
+
+Futel has ten public telephone installations in Portland, and three in other cities. Members of the Futel crew are also involved in Portland based technological creative groups including Dorkbot PDX and Church of Robotron, and regional events including Toorcamp. Futel's fiscal sponsor is PDX Hackerspace.
+
+Any twitters or other social network information?
+
+https://futel.net
+
+Any special requests?
+
