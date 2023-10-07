@@ -40,3 +40,8 @@ https://futel.net
 
 Any special requests?
 
+
+
+resize images to one height
+
+convert '*[x50>]' -set filename:base "%[basename]" 'resized%[filename:base].png'
