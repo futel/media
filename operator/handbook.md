@@ -24,7 +24,8 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 There are also these less public phones:
 - r2d2: Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
 - upright: Upright Brewing, 240 N Broadway: 503-468-1337 (IDs as incoming line)
-- sjac: Social Justice Action Center, 400 SE 12th Ave
+- sjac: Social Justice Action Center, 400 SE 12th Ave (IDs as nonpublic number)
+- bottlesandcans: Bottles And Cans, 5916 N Greeley Ave: (IDs as incoming line)
 
 Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call which presents an operator prompt, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
 
