@@ -1,4 +1,3 @@
-operator
 sisyphus
 map
 support
@@ -8,6 +7,7 @@ back cover
 mutual aid
 rant
 
+operator
 new_phones
 death_of_the_payphone
 year_in_review.md
