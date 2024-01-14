@@ -1,6 +1,6 @@
 # Operator Log
 
-260 operator calls resulted in 19 log entries by three operators in 2023.
+1,340 operator calls resulted in 19 log entries by three operators in 2023. A few boring ones are not included.
 
 - **2023-02-10 12:30** Caller said they were wondering what the next step was. I told them they could do whatever they wanted.
 - **2023-02-23 21:42** Caller asked where the concentration camp option went. I told them it was in the directory. Caller confirmed that the chair was still there, they were sitting in it. Caller told me a long story about hot cops rolling up on their child who was in the car while they were on the phone, and then asking what it was about.
