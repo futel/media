@@ -1,12 +1,12 @@
 sisyphus
 map
-support
-ack
 front cover
 back cover
-mutual aid
+mutual aid article
 rant
 
+ack
+support.txt
 operator
 new_phones
 death_of_the_payphone
