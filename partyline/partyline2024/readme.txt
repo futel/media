@@ -1,9 +1,8 @@
-sisyphus
+sisyphus any day now
 map
 front cover
 back cover
-mutual aid article
-rant
+mutual aid article is probably not coming
 
 ack
 support.txt
@@ -12,6 +11,7 @@ new_phones
 death_of_the_payphone
 year_in_review.md
 damage_report
+rant
 hostile_telecom
 graphs
 images
