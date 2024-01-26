@@ -8,9 +8,9 @@ ack
 support.txt
 operator
 new_phones X
-death_of_the_payphone
+death_of_the_payphone X
 year_in_review.md
-damage_report
+damage_report X
 rant
 hostile_telecom X
 graphs
