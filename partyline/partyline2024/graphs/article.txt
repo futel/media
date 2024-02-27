@@ -1,12 +1,1 @@
-# Usage Visualization
-
-Here at Futel we are always attempting to provide ways to understand how our phones are used. We usually succeed in being able to detect outages in a somewhat reasonable timeframe, and fail at everything else. Anyway, here are two graphs of 2023 usage to look at.
-
-(all_dials.png)
-
-Outgoing phone calls manually entered at the dialtone. This is more or less what we expect to see. Microcosm's phone saw heavy usage from the time it was installed. Central St. gets foot traffic, and Taylor St. has regular users. Breckenridge St. tends to rise and fall, but always gets a surprising rate of use, considering that it's out of the way and in a zone which has been significantly burned down and bulldozed. Cesar Chavez Blvd. also gets a lot of use, considering that it's on a busy street that is not pedestrian-oriented, but it is next to a bus stop.
-
-(operator.png)
-
-Operator calls. The Sou'Wester gets kids who are trying to prank someone, or just want to explore what a phone can do. Cesar Chavez is once again surprising, maybe because of its mysterious location?
-
+Outgoing phone calls manually entered at the dialtone per phone for 2023. Another crappy graph. We really just need to know when phones go down, everything else is kluged together. In order of popularity, Microcosm with almost 3,500, Central St., Taylor St., Breckenridge St., Pearl St., and the rest.Microcosm’s phone saw heavy use from the time it was installed. Central St. gets foot traffic, and Taylor St. has regular users. 23rd St. and Breckenridge St. in Detroit tends to rise and fall, but always gets a surprising rate of use, considering that it’s out of the way and in a depopulated zone. Cesar Chavez Blvd. also gets used a lot, it’s on a busy street that is not pedestrian-oriented but it is next to a bus stop. 

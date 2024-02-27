@@ -1,6 +1,6 @@
 # Year In Review
 
-We shall mention the more notable events.
+We will mention the more notable events.
 
 - One new public phone was installed, and another new phone in a beer garden.
 - “Increasing Achievements with Operant Conditioning” was presented at ftp://con.
