@@ -26,6 +26,7 @@ There are also these less public phones:
 - upright: Upright Brewing, 240 N Broadway: 503-468-1337 (IDs as incoming line)
 - sjac: Social Justice Action Center, 400 SE 12th Ave (IDs as nonpublic number)
 - bottlesandcans: Bottles And Cans, 5916 N Greeley Ave: (IDs as incoming line)
+- groundscore: 624 NW Couch St: (IDs as nonpublic number)
 
 Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call which presents an operator prompt, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
 
