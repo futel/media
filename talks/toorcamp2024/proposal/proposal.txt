@@ -1,0 +1,99 @@
+Title
+
+Futel: How Creating North America's Fastest Growing Public Telephone Network Fulfills Our Objectives
+
+Session Type
+
+50 min
+
+Abstract
+
+Futel rescues payphones and installs them in public locations to provide free calls, telephone services, interactive experiences, and live operator assistance. We currently support 17 phones in Portland, Detroit, and Ypsilanti. We are often hailed for providing an essential communication service, but the aspect we are asked most often about is our motivation. Why do we do it?
+
+Description (public)
+
+The technically interesting parts of the project are about coordination and motivation. Why do we do it? We are always trying to find ways to turn our stupid obsessive quests into something that brings us advantages, whether imaginary or real.
+
+To keep the project alive and reliable for nine years we have had to learn and apply skills in many different fields, IT engineering, social engineering, municipal engineering, whatever. As hackers, this has been its own reward, but for the project to be sustainable it needs to benefit its workers.
+
+This talk will discuss how we find these advantages and use them to motivate ourselves and our cohort to achieve our goals, and how those goals have shaped the project. It will then devolve into our approach to technological art and public service, and how the constraints of the hardware gives us the freedom to reach or at least confuse people.
+
+Notes (for organizers)
+
+Draft talk outline, I will probably add and remove a subtopic.
+I gave a very truncated version of part this as a lightning talk at ToorCamp 2016 , 5 minutes extended to 15 by audience and moderator interest. Futel had an interactive phone challenge at VirtualToor and has brought payphones running our interactive programs to ToorCamp. Our members have also been involved with the Church of Robotron, which had a dome at ToorCamp 2012, this year we are House of Pong.
+
+1. intro and overview
+
+what is this talk
+- what Futel
+- why we do it
+- how we decide what to do
+
+why do I want to give this talk
+- to talk about these things in a hacker context:
+  - projects
+  - skill application and acquisition
+  - creativity and idea generation
+  - finding overlooked corners that leverage skills
+  - mutual aid
+
+what is futel
+- a Portland phone company run by me and several other volunteers
+- free payphones on sidewalks, alley, R2D2
+- incoming lines
+- recycled hardware, cloud computers, VOIP service, and of course an irc bot
+
+what does futel offer
+- everything is free
+- calls to most of North America
+- voicemail
+- directories of useful numbers and social service numbers
+- directories of interesting numbers
+- voice conference
+- payphone shotgun
+- wildcard line
+- human operators
+
+2. motivation
+
+why futel
+- quick history/inspiration overview
+-- phones and urban furniture and expected future
+-- phreaks
+- goals
+-- service
+-- art
+-- community
+- power
+
+3. evaluation
+
+why evaluation
+- I can never tell if an idea is stupid
+- costs money and time
+- everything needs validation of some kind
+
+what are the aspects of the service which are fundamental
+- useful
+- cheap to give away
+-- gives us freedom - few restrictions
+- simple and public
+-- lets us present it to anyone
+-- accessible
+--- most people can use a phone
+    with the obvious exception of those without hearing or speech!
+    TDD donations sought!
+-- rugged hardware, can leave it out all night
+-- easy connection to large existing network
+--- no apps, no devices, no social networks, no ID
+- interesting and fun
+-- worthwhile for operators
+
+Image
+
+Any special requests? (Really, please request ANYTHING)
+
+Fund the Futel payphone proposal at ToorCamp, allowing us to install phones throughout the camp, thanks.
+
+Resources
