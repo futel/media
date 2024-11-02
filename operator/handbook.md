@@ -20,6 +20,9 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - microcosm: N Williams Ave S of NE Graham St, E side of street: 503-294-5966
 - 27thalley: NE 27th Ave-28th Ave Alley N of Killingsworth, W side of street: 503-928-8465
 - ghostmountain: SE 40th just S of Woodstock, W side of street: 503-444-8615
+- clinton: SE Clinton just W of 27th, N side of street: 503-212-6803
+- fortysecond: 42nd Ave S N of Myrtle, E side of street, Seattle, WA: 425-243-1894
+- brazee: NE Brazee W of 108th, S side of street: 971-293-2956
 
 There are also these less public phones:
 - r2d2: Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
