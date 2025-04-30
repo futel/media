@@ -23,6 +23,7 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - clinton: SE Clinton just W of 27th, N side of street: 503-212-6803
 - fortysecond: 42nd Ave S N of Myrtle, E side of street, Seattle, WA: 425-243-1894
 - brazee: NE Brazee W of 108th, S side of street: 971-293-2956
+- streetroots: W Burnside at 3rd, N side of street: 971-274-5717
 
 There are also these less public phones:
 - r2d2: Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
