@@ -1,33 +1,21 @@
-laid out
+to print a pdf of 28 5.50 × 8.50 inch pages into a booklet pdf
+on ubuntu
 
-written
+with pdfbook2 from the texlive-extra-utils package
+pdfbook2 partyline2025-pages.pdf --outer-margin=10 --inner-margin=15
 
-- front cover
-- frontis
-- ten_years.md
-- new_phones
-- year in review
-- operator	
-- map
-- sisyphus
+then print grayscale with short edge flip
 
-- death of the demultiplexer
-- state.md
+with document viewer
+this doesn't center properly on the sheet
 
-todo
+pages per side 2
+orientation portrait
+paper size letter
+scale 160%
+range 28,1,2,27,26,3,4,25,24,5,6,23,22,7,8,21,20,9,10,19,18,11,12,17,16,13,14,15
+page scaling none
+auto rotate and center
+select page size using document page size (unchecked)
 
-back cover
-ack
-support.txt
-Image credits
-
-graphs
-other phone projects
-labs
-mutual.txt
-
-images
-message left on phone
-
-
-As it had been in former times, so I founded, I made it; as it had been in ancient days, so I exalted its summit.
+Xxx update web contributors sac
