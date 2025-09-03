@@ -26,6 +26,8 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - streetroots: W Burnside at 3rd, N side of street: 971-274-5717
 - fiftyeighth: SE 58th just N of Holgate, E side of street: 503-894-5775
 - princeton: N Princeton W of Alma, N side of street: 503-412-7092
+- seattle-thistle: 48th Ave S S of Thistle, E side of street, Seattle, WA: 206-888-6424
+- seattle-estelitas: Martin Luther King Jr Way S S of Washington, W side of street, Seattle, WA: 206-466-3296
 
 There are also these less public phones:
 - r2d2: Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
