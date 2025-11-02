@@ -14,12 +14,14 @@ upload this file to uMap (link below) and check “replace layer content” on L
 The map was built with my openstreetmap login (MathewL)
 https://umap.openstreetmap.fr/en/map/futel-service-map_707873
 
-there is an old map at this url but umap broke Github login:
+there is a second map because uMap broke Github login for a bit.
 https://umap.openstreetmap.fr/en/map/futel-service-map_551231
-mathewlippincott has permissions, if they fix github login, Ican add you as an editor if you log in to uMap using your Github username
+mathewlippincott has permissions
 
 The icon uses this graphic
 media/images/clip_src/simple-phone-handset-md.png
+the graphic can be directly accessed at this link:
+https://github.com/kra/futel/raw/2b0ab62f67bd640610545fdaeb522103deed32a0/media/images/clip_src/simple-phone-handset-md.png
 
 OLD INDESIGN MAP INSTRUCTIONS:
 How to update the InDesign map:
