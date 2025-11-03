@@ -5,10 +5,14 @@ The three indesign files contain the different maps to export. The maps are buil
 
 There are additional icons in the “icons” folder. Screenshots of OSM map files that were traced are in “sources.”
 
-How to update the uMap embedded map:
-add locations to umapfutel.csv
-media/map/umapfutel.csv
+How to update the uMap interactive web map:
 
+add locations to umapfutel.csv using three decimal places of lat/lon precision to obscure exact location. place directions in the name. leave address and decription fields blank, even where address is given (limits scraping). 
+example:
+name,Latitude,Longitude,Address,description
+east side of N Central between Tyler and Allegheny (503) 483-6584,45.59,-122.746,,
+ 
+media/map/umapfutel.csv
 upload this file to uMap (link below) and check “replace layer content” on Layer 1
 
 The map was built with my openstreetmap login (MathewL)
@@ -16,7 +20,7 @@ https://umap.openstreetmap.fr/en/map/futel-service-map_707873
 
 there is a second map because uMap broke Github login for a bit.
 https://umap.openstreetmap.fr/en/map/futel-service-map_551231
-mathewlippincott has permissions
+gitub user mathewlippincott has permissions
 
 The icon uses this graphic
 media/images/clip_src/simple-phone-handset-md.png
