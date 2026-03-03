@@ -21,7 +21,7 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - 27thalley: NE 27th Ave-28th Ave Alley N of Killingsworth, W side of street: 503-928-8465
 - ghostmountain: SE 40th just S of Woodstock, W side of street: 503-444-8615
 - clinton: SE Clinton just W of 27th, N side of street: 503-212-6803
-- fortysecond: 42nd Ave S N of Myrtle, E side of street, Seattle, WA: 425-243-1894
+- seattle-fortysecond: 42nd Ave S N of Myrtle, E side of street, Seattle, WA: 425-243-1894
 - brazee: NE Brazee W of 108th, S side of street: 971-293-2956
 - streetroots: W Burnside at 3rd, N side of street: 971-274-5717
 - fiftyeighth: SE 58th just N of Holgate, E side of street: 503-894-5775
@@ -34,7 +34,6 @@ There are also these less public phones:
 - upright: Upright Brewing, 240 N Broadway: 503-468-1337 (IDs as incoming line)
 - sjac: Social Justice Action Center, 400 SE 12th Ave (IDs as nonpublic number)
 - bottlesandcans: Bottles And Cans, 5916 N Greeley Ave: (IDs as incoming line)
-- groundscore: 624 NW Couch St: (IDs as nonpublic number)
 
 Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call which presents an operator prompt, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
 
