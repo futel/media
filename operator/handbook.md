@@ -29,6 +29,8 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - seattle-thistle: 48th Ave S S of Thistle, E side of street, Seattle, WA: 206-888-6424
 - seattle-estelitas: Martin Luther King Jr Way S S of Washington, W side of street, Seattle, WA: 206-466-3296
 - mother-foucaults: SE Grand Ave N of Morrison, W side of street: 971-754-2740
+- seattle-cafered: Martin Luther King Jr Way S n of Othello, E side of street, Seattle, WA: 206-653-1750
+  - (accessed from 47nd Ave S N of Othello, W side of street)
 
 Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call which presents an operator prompt, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
 
