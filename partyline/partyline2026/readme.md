@@ -1,6 +1,6 @@
 todo
 
-in blog and directory
+in directory
 
 detroit phone stolen
 operator log
@@ -16,6 +16,10 @@ puzzle answers
 usage
 fiona image
 the old town crier
+map
+new phones
+life of the payphone
+old town crier content
 
 in blog not yet in directory
 
@@ -25,7 +29,6 @@ blog articles
 
 not yet in blog
 
-map
 photos from 2025
 status report
 articles from admin/articles
@@ -33,11 +36,9 @@ articles from admin/articles
 - mutual aid?
 - used to fit in to the env
 - experience of being in the phone, prev uses
-old town crier content
 
 not yet in directory
 
-new phones
 front cover
 back cover
 support, ack
